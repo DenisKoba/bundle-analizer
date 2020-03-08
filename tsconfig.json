@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true,
+    "incremental": true,
+    "moduleResolution": "node",
+    "strictNullChecks": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "preserveConstEnums": false,
+    "lib": [
+      "dom",
+      "esnext"
+    ]
+  },
+  "include": [
+    "./*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
