@@ -15,13 +15,11 @@
     "sourceMap": true,
     "noImplicitAny": false,
     "preserveConstEnums": false,
-    "lib": [
-      "dom",
-      "esnext"
-    ]
+    "lib": ["es6"],
+    "skipLibCheck": true
   },
   "include": [
-    "./*"
+    "./**/*"
   ],
   "exclude": [
     "node_modules"

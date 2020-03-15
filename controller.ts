@@ -1,4 +1,4 @@
-// @ts-ignore
+export {};
 const database = require('./database')
 const MobileBundle = require('./database').MobileBundle
 
@@ -10,6 +10,7 @@ module.exports = class DatabaseController {
         this.bundle = new MobileBundle({
             size: size,
             date: date,
+            repo: repo
         })
     }
 
@@ -28,14 +29,12 @@ module.exports = class DatabaseController {
     }
 
     fetch() {
-        console.log('FETCH', this.bundle)
-        return this.bundle
-          .find()
+        return MobileBundle
+          .find().sort({ _id: -1 }).limit(1)
           .then((data) => {
-              console.log(data)
               return data
           })
-          .catch(err => console.log(err))
+          .catch(err => console.log('ERROR', err))
     }
 
 }

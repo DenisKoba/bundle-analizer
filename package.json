@@ -19,8 +19,13 @@
   "dependencies": {
     "@types/node": "^13.9.0",
     "express": "^4.17.1",
+    "get-folder-size": "^2.0.1",
+    "glob": "^7.1.6",
     "mongodb": "^3.5.4",
     "mongoose": "^5.9.3",
     "typescript": "^3.8.3"
+  },
+  "bin": {
+    "bundle-analizer": "./lib/app.js"
   }
 }

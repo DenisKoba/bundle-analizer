@@ -1,3 +1,5 @@
+export {}
+
 const mongodb = require('mongodb')
 const mongoose = require('mongoose')
 const MongoClient = mongodb.MongoClient
@@ -10,6 +12,10 @@ const BundleDetailsSchema = new Schema({
     required: true,
   },
   size: {
+    type: String,
+    required: true,
+  },
+  repo: {
     type: String,
     required: true,
   }
