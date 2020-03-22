@@ -36,7 +36,13 @@ module.exports = class DatabaseController {
     date = ''
     bundle = null
 
-    save() {
+    save(date, newSize, repoName) {
+        this.bundle = new DBmodel({
+            size: newSize,
+            date: date,
+            repo: repoName
+        })
+        console.log('BUNDLE', this.bundle)
         return this.bundle
           .save()
           .then((data) => {
