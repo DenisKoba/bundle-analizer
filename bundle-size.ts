@@ -1,6 +1,7 @@
 export {}
 const glob = require('glob');
 const fs = require("fs")
+const MAX_BUNDLE_SIZE_LIMIT = 10
 
 const getBundleSize = async (path) => {
   const sunc = glob.sync(`${path}/**/*.js`)
@@ -13,9 +14,18 @@ const getBundleSize = async (path) => {
   return Promise.resolve(sunc)
 }
 
-const compareBundleSizes = (size) => {
-  console.log(size)
+const isBuildSmallerThanPrevious = (prevSize, newSize) => {
+  const decreaseValue = parseInt((newSize - prevSize).toFixed());
+  const isSmallerThanLimit = () => {
+    if (decreaseValue > 0) {
+      return (decreaseValue / prevSize) * 100 <= MAX_BUNDLE_SIZE_LIMIT
+    }
+
+    return true
+  }
+
+  return isSmallerThanLimit()
 }
 
 exports.getBundleSize = getBundleSize
-exports.compareBundleSizes = compareBundleSizes
+exports.isBuildSmallerThanPrevious = isBuildSmallerThanPrevious

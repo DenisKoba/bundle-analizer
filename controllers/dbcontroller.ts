@@ -1,13 +1,30 @@
 export {};
-const database = require('./database')
-const MobileBundle = require('./database').MobileBundle
+const mongoose = require('mongoose')
+const Schema = mongoose.Schema
+
+const BundleDetailsSchema = new Schema({
+    date: {
+        type: Number,
+        required: true,
+    },
+    size: {
+        type: String,
+        required: true,
+    },
+    repo: {
+        type: String,
+        required: true,
+    }
+})
+
+const DBmodel = mongoose.model('DBmodel', BundleDetailsSchema)
 
 module.exports = class DatabaseController {
     constructor(size: string, date: string, repo: string) {
         this.size = size
         this.date = date
         this.repo = repo
-        this.bundle = new MobileBundle({
+        this.bundle = new DBmodel({
             size: size,
             date: date,
             repo: repo
@@ -28,8 +45,17 @@ module.exports = class DatabaseController {
           .catch(err => console.log(err))
     }
 
+    fetchAll() {
+        return DBmodel
+          .find()
+          .then((data) => {
+              return data
+          })
+          .catch(err => console.log('ERROR', err))
+    }
+
     fetch() {
-        return MobileBundle
+        return DBmodel
           .find().sort({ _id: -1 }).limit(1)
           .then((data) => {
               return data

@@ -1,27 +1,11 @@
 export {}
-
-const mongodb = require('mongodb')
+const DatabaseController = require('./controllers/dbcontroller')
 const mongoose = require('mongoose')
-const MongoClient = mongodb.MongoClient
 
-const Schema = mongoose.Schema
 
-const BundleDetailsSchema = new Schema({
-  date: {
-    type: Number,
-    required: true,
-  },
-  size: {
-    type: String,
-    required: true,
-  },
-  repo: {
-    type: String,
-    required: true,
-  }
-})
 
 let _db
+let dbcontroller
 
 // @ts-ignore
 const connect  = () => {
@@ -34,9 +18,20 @@ const connect  = () => {
         .catch(err => console.log(err))
 }
 
+const setupController = (newSize, date, repo) => {
+  dbcontroller = new DatabaseController(newSize, date, repo)
+}
+
+const getController = () => {
+  if (!dbcontroller) {
+    throw new Error('no db controller available')
+  }
+
+  return dbcontroller
+}
+
 const mongoDB = () => {
     if (_db) {
-        console.log(_db)
         return _db
     }
 
@@ -45,5 +40,6 @@ const mongoDB = () => {
 
 exports.connect = connect
 exports.mongoDB = mongoDB
-exports.MobileBundle = mongoose.model('MobileBundle', BundleDetailsSchema)
+exports.setupController = setupController
+exports.getController = getController
 
