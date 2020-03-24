@@ -3,7 +3,7 @@ export {}
 const express = require('express');
 const app = express();
 const cors = require('cors')
-const PORT = 8080
+const PORT = 8082
 const frontendRoutes = require('../routes/frontend')
 const bodyParser = require('body-parser')
 

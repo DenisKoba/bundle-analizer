@@ -4,10 +4,6 @@ const database = require('../helpers/database')
 const socket = require('../socket/socket')
 
 const saveIntoDatabase = (prevSize, newSize, repoName) => {
-  console.log('sdfghjfddfgdhtyjukjygfhtdfjygkujyfhtdgrhtfjygkuhgyjfthdg', isBuildSmallerThanPrevious(
-    parseInt(prevSize.size),
-    parseInt(newSize)
-  ))
   if (isBuildSmallerThanPrevious(
     parseInt(prevSize.size),
     parseInt(newSize)
