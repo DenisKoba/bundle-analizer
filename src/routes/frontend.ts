@@ -2,11 +2,11 @@ export {}
 const express = require('express')
 
 const router = express.Router()
-const frontendController = require('../controllers/frontend')
+const FrontendController = require('../controllers/FrontendController')
 
-router.get('/sizes', frontendController.getBundleSizes)
-router.post('/analyze', frontendController.analyzeBundleSizes)
-router.post('/save', frontendController.saveBundleData)
+router.get('/sizes', FrontendController.getBundleSizes)
+router.post('/analyze', FrontendController.analyzeBundleSizes)
+router.post('/save', FrontendController.saveBundleData)
 
 
 module.exports = router

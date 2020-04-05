@@ -1,5 +1,5 @@
 export {}
-const DatabaseController = require('../controllers/dbcontroller')
+const DatabaseController = require('../controllers/DatabaseController')
 const mongoose = require('mongoose')
 
 

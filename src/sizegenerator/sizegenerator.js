@@ -1,6 +1,7 @@
 const glob = require('glob')
 const fs = require("fs")
 const chalk = require('chalk');
+const fetch = require('node-fetch');
 
 const getBundleSize = async (path) => {
     const sunc = glob.sync(`${path}/**/*.js`)
@@ -12,8 +13,6 @@ const getBundleSize = async (path) => {
 
     return Promise.resolve(sunc)
 }
-
-const fetch = require('node-fetch');
 
 getBundleSize('./dist').then(data => analizeBundleSize(data) )
 

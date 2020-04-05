@@ -38,10 +38,8 @@ module.exports = class DatabaseController {
       })
       return this.bundle
         .save()
-        .then((data) => {
-          return data
-        })
-        .catch(err => console.log('failed'))
+        .then(data => data)
+        .catch(err => console.log('Failed to save the bundle size', err))
     }
 
     fetchAll() {
@@ -50,17 +48,17 @@ module.exports = class DatabaseController {
         .then((data) => {
           return data
         })
-        .catch(err => console.log('ERROR fetch all'))
+        .catch(err => console.log('Failed to fetch all bundle sizes', err))
     }
 
-    fetch(repo) {
+    fetchLast(repo) {
       return DBmodel
         .find({ repo }).sort({ _id: -1 }).limit(1)
         .then((data) => {
           console.log(data)
           return data
         })
-        .catch(err => console.log('ERROR fetch bundle sizes'))
+        .catch(err => console.log('Failed to fetch the latest bundle size', err))
     }
 
 }
