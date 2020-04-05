@@ -5,7 +5,8 @@ const router = express.Router()
 const frontendController = require('../controllers/frontend')
 
 router.get('/sizes', frontendController.getBundleSizes)
-router.post('/analize', frontendController.analizeBundleSizes)
+router.post('/analyze', frontendController.analyzeBundleSizes)
+router.post('/save', frontendController.saveBundleData)
 
 
 module.exports = router

@@ -20,10 +20,7 @@ const BundleDetailsSchema = new Schema({
 const DBmodel = mongoose.model('DBmodel', BundleDetailsSchema)
 
 module.exports = class DatabaseController {
-  constructor(size: string, date: string, repo: string) {
-    this.size = size
-    this.date = date
-    this.repo = repo
+  constructor(private size: string, private date: string, private repo: string) {
     this.bundle = new DBmodel({
       size: size,
       date: date,
@@ -31,24 +28,20 @@ module.exports = class DatabaseController {
     })
   }
 
-    repo = ''
-    size = ''
-    date = ''
-    bundle = null
+  bundle = null
 
     save(date, newSize, repoName) {
       this.bundle = new DBmodel({
         size: newSize,
         date: date,
-        repo: repoName
+        repo: repoName,
       })
-      console.log('BUNDLE', this.bundle)
       return this.bundle
         .save()
         .then((data) => {
           return data
         })
-        .catch(err => console.log(err))
+        .catch(err => console.log('failed'))
     }
 
     fetchAll() {
@@ -57,16 +50,17 @@ module.exports = class DatabaseController {
         .then((data) => {
           return data
         })
-        .catch(err => console.log('ERROR', err))
+        .catch(err => console.log('ERROR fetch all'))
     }
 
-    fetch() {
+    fetch(repo) {
       return DBmodel
-        .find().sort({ _id: -1 }).limit(1)
+        .find({ repo }).sort({ _id: -1 }).limit(1)
         .then((data) => {
+          console.log(data)
           return data
         })
-        .catch(err => console.log('ERROR', err))
+        .catch(err => console.log('ERROR fetch bundle sizes'))
     }
 
 }

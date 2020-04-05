@@ -10,12 +10,12 @@ let dbcontroller
 // @ts-ignore
 const connect  = () => {
   return mongoose.connect(
-    `mongodb+srv://${process.env.DB_USER_NAME}:${process.env.DB_PASSWORD}@clusterbuildanalizer-r9lb1.mongodb.net/${process.env.DB_NAME}`
+    `mongodb+srv://${process.env.DB_USER_NAME}:${process.env.DB_PASSWORD}@clusterbuildanalizer-r9lb1.mongodb.net/dbmodels`
   )
     .then(client => {
       return client
     })
-    .catch(err => console.log(err))
+    .catch(err => console.log('failed to connect'))
 }
 
 const setupController = (newSize = 0, date = '', repo = '') => {

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 export {};
-const database = require('./helpers/database')
+const database = require('./database/database')
 const server = require('./server/server')
 const socket = require('./socket/socket')
 

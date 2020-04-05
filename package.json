@@ -7,7 +7,7 @@
     "node": "10.18.1"
   },
   "scripts": {
-    "start": "node ./lib/app.js",
+    "start": "DB_USER_NAME=socialtech DB_PASSWORD=Socialtechnologies DB_NAME=dbmodels PORT=8080 node ./lib/app.js",
     "lint": "eslint 'src/**' --fix",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
