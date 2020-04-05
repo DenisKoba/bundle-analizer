@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "10.18.1"
+  },
   "scripts": {
+    "lint": "eslint 'src/**' --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +27,7 @@
     "express": "^4.17.1",
     "get-folder-size": "^2.0.1",
     "glob": "^7.1.6",
+    "helmet": "^3.22.0",
     "mongodb": "^3.5.4",
     "mongoose": "^5.9.3",
     "node-fetch": "^2.6.0",
@@ -31,5 +36,10 @@
   },
   "bin": {
     "bundle-analizer": "./lib/app.js"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
+    "eslint": "^6.8.0"
   }
 }

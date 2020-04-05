@@ -1,0 +1,1660 @@
+{
+  "program": {
+    "fileInfos": {
+      "/usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "/users/denis/bundle-analizer/app.ts": {
+        "version": "986a08ab4bc5f5d2caeb8bd8b4e60c005eb367ee49a5c4f3eae00cad1e367f00",
+        "signature": "43e818adf60173644896298637f47b01d5819b17eda46eaa32d0c7d64724d012"
+      },
+      "/users/denis/bundle-analizer/controllers/dbcontroller.ts": {
+        "version": "988c4241edd2d70f1407a79da0bd6fbc7ea462650622234eb4d6c2f549d09e20",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/types/index.ts": {
+        "version": "9f69285a80c4b44ff4d83eab1f84b174616ad0c4d39bd36d099cdfcb65ea3df8",
+        "signature": "306b27d71ea8f8f10253067afaf119d7ebcc2230dc099e68a1dae9eee59eec47"
+      },
+      "/users/denis/bundle-analizer/controllers/frontend.ts": {
+        "version": "dd46ef7eb3a8c264febdfab516f6cc4a4205d755d4ead47402b1ffcecc71ffde",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/helpers/bundle-size.ts": {
+        "version": "0457e79657c0255b63f213b965dc868af179573dcd8c3c03446c78404fafdf65",
+        "signature": "433bfe1b81ff4d79f4d68a1594bd4d664b6da59e2e03939bd0b041b4b34dc61e"
+      },
+      "/users/denis/bundle-analizer/helpers/database.ts": {
+        "version": "4664ed60c8efdd37eb8579cacc7d5a823cd0fbfb81bae41493df27e98c4e0525",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/lib/app.d.ts": {
+        "version": "43e818adf60173644896298637f47b01d5819b17eda46eaa32d0c7d64724d012",
+        "signature": "43e818adf60173644896298637f47b01d5819b17eda46eaa32d0c7d64724d012"
+      },
+      "/users/denis/bundle-analizer/lib/bundle-size.d.ts": {
+        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/lib/controller.d.ts": {
+        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/lib/database.d.ts": {
+        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/lib/controllers/dbcontroller.d.ts": {
+        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/lib/controllers/frontend.d.ts": {
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "/users/denis/bundle-analizer/lib/helpers/bundle-size.d.ts": {
+        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/lib/helpers/database.d.ts": {
+        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/lib/routes/frontend.d.ts": {
+        "version": "88144d2836750b305f40d03d463cdee537b73823ef3a53546aa6f0188f526f89",
+        "signature": "88144d2836750b305f40d03d463cdee537b73823ef3a53546aa6f0188f526f89"
+      },
+      "/users/denis/bundle-analizer/lib/server/server.d.ts": {
+        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/lib/socket/socket.d.ts": {
+        "version": "e03013a1f1b561bc7fc8fb9c149dc48451a200bf684ef99ed5852e03d7b3caf1",
+        "signature": "e03013a1f1b561bc7fc8fb9c149dc48451a200bf684ef99ed5852e03d7b3caf1"
+      },
+      "/users/denis/bundle-analizer/lib/types/index.d.ts": {
+        "version": "306b27d71ea8f8f10253067afaf119d7ebcc2230dc099e68a1dae9eee59eec47",
+        "signature": "306b27d71ea8f8f10253067afaf119d7ebcc2230dc099e68a1dae9eee59eec47"
+      },
+      "/users/denis/bundle-analizer/routes/frontend.ts": {
+        "version": "b049b37033257bc2784daae11e91c158101eff28a0169b24a14066e601b629b1",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/server/server.ts": {
+        "version": "100ad8b335489d4847a7262b26e03e34b47aad733ad977006887174bad914872",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/socket/socket.ts": {
+        "version": "f0ece7db123579a2cfaed9c4a8b398cb2e60c0dd02732525802168606c3bd133",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/globals.d.ts": {
+        "version": "facd846e52d080629af96d24241b95fdf1472bf77a9f5c447f6b7f7214142d5e",
+        "signature": "facd846e52d080629af96d24241b95fdf1472bf77a9f5c447f6b7f7214142d5e"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/assert.d.ts": {
+        "version": "021b431b8f3869ebb9798b939ddbe637e341afa76d547fb507f3b1ece06a22cb",
+        "signature": "021b431b8f3869ebb9798b939ddbe637e341afa76d547fb507f3b1ece06a22cb"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "4cdc6f1ce7e6d1518ad844b98c96e924f687d20bd8682e54e964efebe3d47759",
+        "signature": "4cdc6f1ce7e6d1518ad844b98c96e924f687d20bd8682e54e964efebe3d47759"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/buffer.d.ts": {
+        "version": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878",
+        "signature": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/child_process.d.ts": {
+        "version": "3ca89ecb953fe3b63dae41e5bb986506e812754dde0369c5fe61de26eff47dbe",
+        "signature": "3ca89ecb953fe3b63dae41e5bb986506e812754dde0369c5fe61de26eff47dbe"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/cluster.d.ts": {
+        "version": "0a4042f587664ff71318524eb5a5935d43e7e0a77a8ac0f033cfee8d583f64ce",
+        "signature": "0a4042f587664ff71318524eb5a5935d43e7e0a77a8ac0f033cfee8d583f64ce"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/constants.d.ts": {
+        "version": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720",
+        "signature": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts": {
+        "version": "40d3fff6913e03f576749d7dd74846be35bd59e74bfa006a0e41992a30d70970",
+        "signature": "40d3fff6913e03f576749d7dd74846be35bd59e74bfa006a0e41992a30d70970"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/dgram.d.ts": {
+        "version": "7ecfe97b43aa6c8b8f90caa599d5648bb559962e74e6f038f73a77320569dd78",
+        "signature": "7ecfe97b43aa6c8b8f90caa599d5648bb559962e74e6f038f73a77320569dd78"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts": {
+        "version": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c",
+        "signature": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/domain.d.ts": {
+        "version": "4d4c83f77ac21a72252785baa5328a5612b0b6598d512f68b8cb14f7966d059e",
+        "signature": "4d4c83f77ac21a72252785baa5328a5612b0b6598d512f68b8cb14f7966d059e"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts": {
+        "version": "5ffa4219ee64e130980a4231392cbc628544df137ccf650ae8d76e0a1744fd2b",
+        "signature": "5ffa4219ee64e130980a4231392cbc628544df137ccf650ae8d76e0a1744fd2b"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts": {
+        "version": "40da414698c06b261ab809208b2c1d52a11499768392b438dbd3bf292f506042",
+        "signature": "40da414698c06b261ab809208b2c1d52a11499768392b438dbd3bf292f506042"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts": {
+        "version": "9fe481fd52f878a1904411455b09f8eeb87bc4237c10d230454144c1f46ea7ad",
+        "signature": "9fe481fd52f878a1904411455b09f8eeb87bc4237c10d230454144c1f46ea7ad"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/http2.d.ts": {
+        "version": "873da589b78a1f1fa7d623483bd2c2730a02e0852259fb8fdcfe5221ac51d18a",
+        "signature": "873da589b78a1f1fa7d623483bd2c2730a02e0852259fb8fdcfe5221ac51d18a"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/https.d.ts": {
+        "version": "c969bf4c7cdfe4d5dd28aa09432f99d09ad1d8d8b839959646579521d0467d1a",
+        "signature": "c969bf4c7cdfe4d5dd28aa09432f99d09ad1d8d8b839959646579521d0467d1a"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/inspector.d.ts": {
+        "version": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c",
+        "signature": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/module.d.ts": {
+        "version": "a376e245f494b58365a4391a2568e6dd9da372c3453f4732eb6e15ebb9038451",
+        "signature": "a376e245f494b58365a4391a2568e6dd9da372c3453f4732eb6e15ebb9038451"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts": {
+        "version": "ffe8912b7c45288810c870b768190c6c097459930a587dd6ef0d900a5529a811",
+        "signature": "ffe8912b7c45288810c870b768190c6c097459930a587dd6ef0d900a5529a811"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/os.d.ts": {
+        "version": "0e12698313f413a9896fd433eb8fe205ba62af22675131dd67bef38c2b67c5d0",
+        "signature": "0e12698313f413a9896fd433eb8fe205ba62af22675131dd67bef38c2b67c5d0"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/path.d.ts": {
+        "version": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35",
+        "signature": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "0b6098fedb648cab8091cca2b022a5c729b6ef18da923852033f495907cb1a45",
+        "signature": "0b6098fedb648cab8091cca2b022a5c729b6ef18da923852033f495907cb1a45"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/process.d.ts": {
+        "version": "0e0d58f5e90c0a270dac052b9c5ad8ccdfc8271118c2105b361063218d528d6e",
+        "signature": "0e0d58f5e90c0a270dac052b9c5ad8ccdfc8271118c2105b361063218d528d6e"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/punycode.d.ts": {
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/querystring.d.ts": {
+        "version": "66ce86394b4ced375bd59338265a190a5cbe0b78a15bdf64e34b46d3a5ffaa5d",
+        "signature": "66ce86394b4ced375bd59338265a190a5cbe0b78a15bdf64e34b46d3a5ffaa5d"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/readline.d.ts": {
+        "version": "6b2bb67b0942bcfce93e1d6fad5f70afd54940a2b13df7f311201fba54b2cbe9",
+        "signature": "6b2bb67b0942bcfce93e1d6fad5f70afd54940a2b13df7f311201fba54b2cbe9"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/repl.d.ts": {
+        "version": "9a09086b0c33e65f14a17eb0e9d415cab597e0b687a1a45d4b59663706451dbe",
+        "signature": "9a09086b0c33e65f14a17eb0e9d415cab597e0b687a1a45d4b59663706451dbe"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts": {
+        "version": "0364716f6c834826cdfb83e8dfaec06e7e3988c7983a5e77d406931bf1a83f53",
+        "signature": "0364716f6c834826cdfb83e8dfaec06e7e3988c7983a5e77d406931bf1a83f53"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432",
+        "signature": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts": {
+        "version": "3ad9ca22bb856db4323624fc059c37dc8266e687d66cfb8567a76db0e96451ca",
+        "signature": "3ad9ca22bb856db4323624fc059c37dc8266e687d66cfb8567a76db0e96451ca"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/trace_events.d.ts": {
+        "version": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "signature": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/tty.d.ts": {
+        "version": "3c2ac350c3baa61fd2b1925844109e098f4376d0768a4643abc82754fd752748",
+        "signature": "3c2ac350c3baa61fd2b1925844109e098f4376d0768a4643abc82754fd752748"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts": {
+        "version": "c0e424dcc169a594c973e096f256f92ed36cce444e7d38e52ed4be5def47bcdd",
+        "signature": "c0e424dcc169a594c973e096f256f92ed36cce444e7d38e52ed4be5def47bcdd"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts": {
+        "version": "424a2e2c9bd05c1fccbaa1b6c131df9aff1c196d3927a71bf1df9a1880d4c867",
+        "signature": "424a2e2c9bd05c1fccbaa1b6c131df9aff1c196d3927a71bf1df9a1880d4c867"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/v8.d.ts": {
+        "version": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953",
+        "signature": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts": {
+        "version": "a0baa0860e17f8ed646315d6330b79c5c192f10e94975ea8c76105d626afb08f",
+        "signature": "a0baa0860e17f8ed646315d6330b79c5c192f10e94975ea8c76105d626afb08f"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "f3b070472a18e807d84b792599e7c1882dcbfe93a56294a2a8638139386ba207",
+        "signature": "f3b070472a18e807d84b792599e7c1882dcbfe93a56294a2a8638139386ba207"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/zlib.d.ts": {
+        "version": "f409183966a1dd93d3a9cd1d54fbeb85c73101e87cd5b19467c5e37b252f3fd8",
+        "signature": "f409183966a1dd93d3a9cd1d54fbeb85c73101e87cd5b19467c5e37b252f3fd8"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/base.d.ts": {
+        "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts": {
+        "version": "1ed55651f38540dba21f4a864bd89834ddb552446dce8c8a5f9dc0b44ce0b024",
+        "signature": "1ed55651f38540dba21f4a864bd89834ddb552446dce8c8a5f9dc0b44ce0b024"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts": {
+        "version": "ffc1cd688606ad1ddb59a40e8f3defbde907af2a3402d1d9ddf69accb2903f07",
+        "signature": "ffc1cd688606ad1ddb59a40e8f3defbde907af2a3402d1d9ddf69accb2903f07"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/globals.d.ts": {
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1"
+      },
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "6e19418b881b57998d218487d41d85534c7fa5ab329bbc72afe571e7683d774a",
+        "signature": "6e19418b881b57998d218487d41d85534c7fa5ab329bbc72afe571e7683d774a"
+      }
+    },
+    "options": {
+      "target": 1,
+      "module": 6,
+      "declaration": true,
+      "outDir": "/Users/denis/bundle-analizer/lib",
+      "strict": true,
+      "incremental": true,
+      "moduleResolution": 2,
+      "strictNullChecks": false,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "downlevelIteration": true,
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": true,
+      "noImplicitAny": false,
+      "preserveConstEnums": false,
+      "lib": [
+        "lib.es2015.d.ts"
+      ],
+      "skipLibCheck": true,
+      "configFilePath": "/Users/denis/bundle-analizer/tsconfig.json"
+    },
+    "referencedMap": {
+      "/usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/app.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/controllers/dbcontroller.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/types/index.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/controllers/frontend.ts": [
+        "/users/denis/bundle-analizer/types/index.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/helpers/bundle-size.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/helpers/database.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/app.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/bundle-size.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/controller.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/database.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/controllers/dbcontroller.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/controllers/frontend.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/helpers/bundle-size.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/helpers/database.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/routes/frontend.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/server/server.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/socket/socket.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/types/index.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/routes/frontend.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/server/server.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/socket/socket.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/globals.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/assert.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/buffer.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/child_process.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/cluster.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/child_process.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/console.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/constants.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/os.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/dgram.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/domain.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/http2.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/https.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/inspector.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/module.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/os.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/path.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/async_hooks.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/process.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/tty.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/punycode.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/querystring.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/readline.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/repl.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/readline.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/timers.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/trace_events.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/tty.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/querystring.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/v8.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/zlib.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/base.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/globals.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/assert.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/async_hooks.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/buffer.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/child_process.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/cluster.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/console.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/constants.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dgram.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/domain.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/http2.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/https.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/inspector.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/module.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/os.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/path.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/perf_hooks.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/process.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/punycode.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/querystring.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/readline.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/repl.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/string_decoder.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/timers.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/trace_events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/tty.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/v8.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/worker_threads.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/zlib.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/globals.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/base.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/usr/local/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/app.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/bundle-size.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/controller.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/database.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/controllers/dbcontroller.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/controllers/frontend.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/helpers/bundle-size.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/helpers/database.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/routes/frontend.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/server/server.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/socket/socket.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/lib/types/index.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/globals.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/assert.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/buffer.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/child_process.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/cluster.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/child_process.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/console.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/constants.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/os.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/dgram.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/domain.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/http2.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/https.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/inspector.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/module.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/os.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/path.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/async_hooks.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/process.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/tty.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/punycode.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/querystring.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/readline.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/repl.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/readline.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/timers.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/trace_events.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/tty.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/querystring.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/v8.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/zlib.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/base.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/globals.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/assert.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/async_hooks.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/buffer.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/child_process.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/cluster.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/console.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/constants.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/crypto.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dgram.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/dns.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/domain.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/http.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/http2.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/https.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/inspector.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/module.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/net.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/os.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/path.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/perf_hooks.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/process.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/punycode.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/querystring.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/readline.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/repl.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/stream.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/string_decoder.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/timers.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/tls.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/trace_events.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/tty.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/url.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/v8.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/vm.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/worker_threads.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/zlib.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/globals.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/denis/bundle-analizer/node_modules/@types/node/base.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/fs.d.ts",
+        "/users/denis/bundle-analizer/node_modules/@types/node/util.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.esnext.bigint.d.ts"
+    ]
+  },
+  "version": "3.4.3"
+}

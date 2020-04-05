@@ -3,9 +3,10 @@ export {}
 const express = require('express');
 const app = express();
 const cors = require('cors')
-const PORT = 8082
+const PORT = process.env.PORT || 3000
 const frontendRoutes = require('../routes/frontend')
 const bodyParser = require('body-parser')
+const helmet = require('helmet')
 
 
 let server
@@ -16,6 +17,7 @@ const initServer = () => {
     origin: "*",
     allowedHeaders: "Content-type",
     methods: "GET,POST,PUT,DELETE,OPTIONS" }));
+  app.use(helmet())
 
   app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
