@@ -45,19 +45,14 @@ module.exports = class DatabaseController {
     fetchAll() {
       return DBmodel
         .find()
-        .then((data) => {
-          return data
-        })
+        .then(data => data)
         .catch(err => console.log('Failed to fetch all bundle sizes', err))
     }
 
     fetchLast(repo) {
       return DBmodel
         .find({ repo }).sort({ _id: -1 }).limit(1)
-        .then((data) => {
-          console.log(data)
-          return data
-        })
+        .then(data => data)
         .catch(err => console.log('Failed to fetch the latest bundle size', err))
     }
 

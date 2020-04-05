@@ -10,7 +10,7 @@ let dbcontroller
 // @ts-ignore
 const connect  = () => {
   return mongoose.connect(
-    `mongodb+srv://${process.env.DB_USER_NAME}:${process.env.DB_PASSWORD}@clusterbuildanalizer-r9lb1.mongodb.net/dbmodels`
+    `mongodb+srv://${process.env.DB_USER_NAME}:${process.env.DB_PASSWORD}@clusterbuildanalizer-r9lb1.mongodb.net/${process.env.DB_NAME}`
   )
     .then(client => {
       return client
