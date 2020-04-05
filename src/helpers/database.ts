@@ -9,13 +9,13 @@ let dbcontroller
 
 // @ts-ignore
 const connect  = () => {
-   return mongoose.connect(
-        'mongodb+srv://socialtech:Socialtechnologies@clusterbuildanalizer-r9lb1.mongodb.net/test?retryWrites=true&w=majority'
-    )
-        .then(client => {
-          return client
-        })
-        .catch(err => console.log(err))
+  return mongoose.connect(
+    `mongodb+srv://${process.env.DB_USER_NAME}:${process.env.DB_PASSWORD}@clusterbuildanalizer-r9lb1.mongodb.net/${process.env.DB_NAME}`
+  )
+    .then(client => {
+      return client
+    })
+    .catch(err => console.log(err))
 }
 
 const setupController = (newSize = 0, date = '', repo = '') => {
@@ -31,11 +31,11 @@ const getController = () => {
 }
 
 const mongoDB = () => {
-    if (_db) {
-        return _db
-    }
+  if (_db) {
+    return _db
+  }
 
-    return console.log('No database available')
+  return console.log('No database available')
 }
 
 exports.connect = connect
