@@ -20,7 +20,8 @@ module.exports = class FrontendController {
   private static saveIntoDatabase(prevSize, newSize, repoName) {
     if (isBuildSmallerThanPrevious(
       parseInt(prevSize.size),
-      parseInt(newSize)
+      parseInt(newSize),
+      repoName,
     )) {
       return FrontendController.passDataIntoDB(newSize, repoName)
     }

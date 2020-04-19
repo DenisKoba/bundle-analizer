@@ -5,15 +5,15 @@ const server = require('./server/server')
 const socket = require('./socket/socket')
 
 
-database.connect().then(() => {
+database.connect()
+  .then(() => {
+    database.setupController()
+    server.initServer()
+    const io = socket.init(server.getServer())
 
-  database.setupController()
-  server.initServer()
-  const io = socket.init(server.getServer())
+    io.on('connection', socket => {
+      console.log('user connected')
+    })
 
-  io.on('connection', socket => {
-    console.log('user connected')
+    io.emit('start', { status: 'start' })
   })
-
-  io.emit('start', { status: 'start' })
-})
